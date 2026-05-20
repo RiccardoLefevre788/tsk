@@ -10,3 +10,4 @@ description = "tsk, a Linear alternative that stays in the terminal: a shared ta
 # drop an unused branch
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# clarify the control flow
